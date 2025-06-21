@@ -69,7 +69,7 @@ import McLarenPage from './components/Brands/Mclaren'
 import BugattiPage from './components/Brands/Buggati'
 import KoenigseggPage from './components/Brands/Koenigsegg'
 import PaganiPage from './components/Brands/Pagani'
-import SurpriseButton from './components/Surprisebutton'
+import SurpriseButton from './components/SurpriseButton'
 
 
 
