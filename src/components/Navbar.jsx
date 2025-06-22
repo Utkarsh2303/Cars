@@ -54,7 +54,7 @@ export default function Navbar() {
            {
             Navmanu.map((item,key)=>(
                 
-                <li  key={key}><a href={item.href}>{item.name}</a></li>
+                <li  key={key}><Link to={item.href}>{item.name}</Link></li>
 
             ))
            }
